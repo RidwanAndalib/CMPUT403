@@ -1,4 +1,5 @@
 /*
+  Problem: https://open.kattis.com/problems/pickupsticks
   Ridwan Andalib
   1597362
 
