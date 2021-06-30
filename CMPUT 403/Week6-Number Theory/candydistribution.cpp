@@ -1,4 +1,5 @@
 /*
+  Problem: https://open.kattis.com/problems/candydistribution
   Ridwan Andalib
   1597362
 
