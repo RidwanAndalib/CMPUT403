@@ -1,4 +1,5 @@
 /*
+  Problem: https://open.kattis.com/problems/molecules
   Ridwan Andalib
   1597362
 
