@@ -1,4 +1,5 @@
 /*
+  Problem: https://open.kattis.com/problems/calories
   Ridwan Andalib
   1597362
 
